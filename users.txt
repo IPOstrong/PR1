@@ -28,3 +28,8 @@ Avery,M7#r2e!y
 Brooklyn,B3@d9m!i
 Khloe,G5#k1a!e
 Amelia,F8@m3l!a
+Usama,12345
+Ben,qwerty
+Adam,11111
+Noa,zxcvb
+Woody,zxcqwe
